@@ -1,0 +1,385 @@
+WEBVTT
+
+b2d72d7e-7f66-4bdf-a239-ced19ebd01e8/54-0
+00:00:16.817 --> 00:00:20.530
+This beginning section is just
+our constant variables, so all
+
+b2d72d7e-7f66-4bdf-a239-ced19ebd01e8/54-1
+00:00:20.530 --> 00:00:24.123
+of the, like all the prices and
+we're starting off with our
+
+b2d72d7e-7f66-4bdf-a239-ced19ebd01e8/54-2
+00:00:24.123 --> 00:00:27.237
+total phones and devices sold,
+which is gonna be 0.
+
+b2d72d7e-7f66-4bdf-a239-ced19ebd01e8/70-0
+00:00:29.867 --> 00:00:34.928
+And then I did the basic
+calculator part where I put it
+
+b2d72d7e-7f66-4bdf-a239-ced19ebd01e8/70-1
+00:00:34.928 --> 00:00:37.097
+in a while loop so that.
+
+b2d72d7e-7f66-4bdf-a239-ced19ebd01e8/110-0
+00:00:38.557 --> 00:00:43.275
+Whenever the user enters 0, it's
+going to break this loop and
+
+b2d72d7e-7f66-4bdf-a239-ced19ebd01e8/110-1
+00:00:43.275 --> 00:00:47.917
+then add +1 to the while loop
+and then why if the while loop
+
+b2d72d7e-7f66-4bdf-a239-ced19ebd01e8/110-2
+00:00:47.917 --> 00:00:52.787
+ever gets to one, it's going to
+exit the loop and calculate our
+
+b2d72d7e-7f66-4bdf-a239-ced19ebd01e8/110-3
+00:00:52.787 --> 00:00:56.897
+profit at the bottom and then
+print out daily profit?
+
+b2d72d7e-7f66-4bdf-a239-ced19ebd01e8/112-0
+00:00:57.237 --> 00:00:57.807
+Umm.
+
+b2d72d7e-7f66-4bdf-a239-ced19ebd01e8/114-0
+00:00:59.387 --> 00:01:00.447
+The.
+
+b2d72d7e-7f66-4bdf-a239-ced19ebd01e8/120-0
+00:01:02.107 --> 00:01:03.917
+If loops are going to be.
+
+b2d72d7e-7f66-4bdf-a239-ced19ebd01e8/142-0
+00:01:04.027 --> 00:01:07.586
+And get the phone category is
+equal to 0 is gonna break the
+
+b2d72d7e-7f66-4bdf-a239-ced19ebd01e8/142-1
+00:01:07.586 --> 00:01:11.204
+loop and obviously go back to
+the beginning and then or exit
+
+b2d72d7e-7f66-4bdf-a239-ced19ebd01e8/142-2
+00:01:11.204 --> 00:01:13.577
+the the while loop. Sorry and
+then the.
+
+b2d72d7e-7f66-4bdf-a239-ced19ebd01e8/174-0
+00:01:14.637 --> 00:01:18.449
+The other categories are just
+the phone categories and it's
+
+b2d72d7e-7f66-4bdf-a239-ced19ebd01e8/174-1
+00:01:18.449 --> 00:01:22.261
+going to have the phone prices
+put into it already and then
+
+b2d72d7e-7f66-4bdf-a239-ced19ebd01e8/174-2
+00:01:22.261 --> 00:01:26.200
+calculate the price for us and
+then print those out. And then
+
+b2d72d7e-7f66-4bdf-a239-ced19ebd01e8/174-3
+00:01:26.200 --> 00:01:28.487
+the if statement here profit
+daily.
+
+b2d72d7e-7f66-4bdf-a239-ced19ebd01e8/189-0
+00:01:29.647 --> 00:01:33.506
+If this equals uh, if this is
+greater than 10,000, is gonna
+
+b2d72d7e-7f66-4bdf-a239-ced19ebd01e8/189-1
+00:01:33.506 --> 00:01:34.857
+print out great work.
+
+b2d72d7e-7f66-4bdf-a239-ced19ebd01e8/202-0
+00:01:35.657 --> 00:01:38.156
+And if it's not greater than
+10,000, then it's going to print
+
+b2d72d7e-7f66-4bdf-a239-ced19ebd01e8/202-1
+00:01:38.156 --> 00:01:39.567
+out that we didn't reach our
+goal.
+
+b2d72d7e-7f66-4bdf-a239-ced19ebd01e8/209-0
+00:01:41.317 --> 00:01:43.117
+And that's basically what I did
+for the project.
+
+b2d72d7e-7f66-4bdf-a239-ced19ebd01e8/225-0
+00:01:44.747 --> 00:01:50.347
+My my point was I coded it,
+edited the whole code but like.
+
+b2d72d7e-7f66-4bdf-a239-ced19ebd01e8/245-0
+00:01:51.327 --> 00:01:57.803
+Danny's uh by setting each other
+off the apples, iPhone and the
+
+b2d72d7e-7f66-4bdf-a239-ced19ebd01e8/245-1
+00:01:57.803 --> 00:01:59.017
+tablet to 0.
+
+b2d72d7e-7f66-4bdf-a239-ced19ebd01e8/305-0
+00:02:00.427 --> 00:02:04.444
+And the reason why I did that?
+Because uh, so it won't like
+
+b2d72d7e-7f66-4bdf-a239-ced19ebd01e8/305-1
+00:02:04.444 --> 00:02:08.663
+store from the previous answer.
+So it would if it's stored the
+
+b2d72d7e-7f66-4bdf-a239-ced19ebd01e8/305-2
+00:02:08.663 --> 00:02:12.614
+previous answer it will mess
+around with the next code the
+
+b2d72d7e-7f66-4bdf-a239-ced19ebd01e8/305-3
+00:02:12.614 --> 00:02:16.966
+next calculation. So I just each
+set each one back to zero so it
+
+b2d72d7e-7f66-4bdf-a239-ced19ebd01e8/305-4
+00:02:16.966 --> 00:02:21.319
+can be reset and while the loop
+still continues. So we could get
+
+b2d72d7e-7f66-4bdf-a239-ced19ebd01e8/305-5
+00:02:21.319 --> 00:02:22.457
+the right result.
+
+b2d72d7e-7f66-4bdf-a239-ced19ebd01e8/316-0
+00:02:27.377 --> 00:02:30.417
+Yeah, you also did the the whole
+while loop like with the.
+
+b2d72d7e-7f66-4bdf-a239-ced19ebd01e8/338-0
+00:02:31.077 --> 00:02:35.177
+Yeah, I I I said that for each
+one each loop.
+
+b2d72d7e-7f66-4bdf-a239-ced19ebd01e8/337-0
+00:02:32.647 --> 00:02:34.917
+The loop back to the beginning.
+Ohh yeah yeah.
+
+b2d72d7e-7f66-4bdf-a239-ced19ebd01e8/340-0
+00:02:36.137 --> 00:02:36.367
+Yeah.
+
+b2d72d7e-7f66-4bdf-a239-ced19ebd01e8/346-0
+00:02:36.907 --> 00:02:39.037
+Oh, and then my Pender.
+
+b2d72d7e-7f66-4bdf-a239-ced19ebd01e8/348-0
+00:02:47.907 --> 00:02:48.217
+My.
+
+b2d72d7e-7f66-4bdf-a239-ced19ebd01e8/351-0
+00:02:51.527 --> 00:02:52.337
+Did we lose my?
+
+b2d72d7e-7f66-4bdf-a239-ced19ebd01e8/356-0
+00:02:53.447 --> 00:02:54.657
+Like his, his muted.
+
+b2d72d7e-7f66-4bdf-a239-ced19ebd01e8/362-0
+00:02:55.827 --> 00:02:56.797
+Oh, I'm sorry.
+
+b2d72d7e-7f66-4bdf-a239-ced19ebd01e8/365-0
+00:02:55.887 --> 00:02:56.867
+He's muted.
+
+b2d72d7e-7f66-4bdf-a239-ced19ebd01e8/391-0
+00:02:57.397 --> 00:03:01.265
+So yeah, so I did the four loop
+up part in which we like go
+
+b2d72d7e-7f66-4bdf-a239-ced19ebd01e8/370-0
+00:02:57.987 --> 00:02:58.547
+You know.
+
+b2d72d7e-7f66-4bdf-a239-ced19ebd01e8/391-1
+00:03:01.265 --> 00:03:04.940
+through the loops of a whole
+week, weekends and the work
+
+b2d72d7e-7f66-4bdf-a239-ced19ebd01e8/391-2
+00:03:04.940 --> 00:03:05.327
+weeks.
+
+b2d72d7e-7f66-4bdf-a239-ced19ebd01e8/453-0
+00:03:06.037 --> 00:03:09.642
+So in this four days in weekend,
+we go through the loop and in
+
+b2d72d7e-7f66-4bdf-a239-ced19ebd01e8/453-1
+00:03:09.642 --> 00:03:13.133
+the first one we just go through
+all the days. So while when
+
+b2d72d7e-7f66-4bdf-a239-ced19ebd01e8/453-2
+00:03:13.133 --> 00:03:16.567
+catalog is equal to equal to 1,
+then he's gonna ask for the
+
+b2d72d7e-7f66-4bdf-a239-ced19ebd01e8/453-3
+00:03:16.567 --> 00:03:20.345
+phone category and then if phone
+category is 0 which is break out
+
+b2d72d7e-7f66-4bdf-a239-ced19ebd01e8/453-4
+00:03:20.345 --> 00:03:23.492
+of the loop and if phone
+category is not zero and it's
+
+b2d72d7e-7f66-4bdf-a239-ced19ebd01e8/453-5
+00:03:23.492 --> 00:03:26.926
+less than five, then we go
+through all the phone categories
+
+b2d72d7e-7f66-4bdf-a239-ced19ebd01e8/453-6
+00:03:26.926 --> 00:03:28.357
+and calculate the result.
+
+b2d72d7e-7f66-4bdf-a239-ced19ebd01e8/476-0
+00:03:29.067 --> 00:03:34.054
+And if won't get into the above,
+then five, then we just print N
+
+b2d72d7e-7f66-4bdf-a239-ced19ebd01e8/476-1
+00:03:34.054 --> 00:03:37.507
+and you say user input user
+input error and.
+
+b2d72d7e-7f66-4bdf-a239-ced19ebd01e8/526-0
+00:03:38.487 --> 00:03:41.863
+At Denry, just say the weak
+profit, which is, uh, the same
+
+b2d72d7e-7f66-4bdf-a239-ced19ebd01e8/526-1
+00:03:41.863 --> 00:03:45.297
+thing that Danny spoke is if
+it's greater than 10,000, it's
+
+b2d72d7e-7f66-4bdf-a239-ced19ebd01e8/526-2
+00:03:45.297 --> 00:03:48.731
+great work. And if it's less,
+more work needed. And then in
+
+b2d72d7e-7f66-4bdf-a239-ced19ebd01e8/526-3
+00:03:48.731 --> 00:03:52.508
+here we just reset the values to
+0. So the our total is all zeros
+
+b2d72d7e-7f66-4bdf-a239-ced19ebd01e8/526-4
+00:03:52.508 --> 00:03:56.057
+if the if it's the work weekend,
+we do the same thing as the.
+
+b2d72d7e-7f66-4bdf-a239-ced19ebd01e8/540-0
+00:03:56.757 --> 00:04:00.587
+As the whole week is just, our
+four loop is different than the.
+
+b2d72d7e-7f66-4bdf-a239-ced19ebd01e8/563-0
+00:04:01.427 --> 00:04:05.394
+A whole week and we just do the
+all the same things that we did
+
+b2d72d7e-7f66-4bdf-a239-ced19ebd01e8/563-1
+00:04:05.394 --> 00:04:09.113
+in the work week as we if it
+breaks, we get out of the loop
+
+b2d72d7e-7f66-4bdf-a239-ced19ebd01e8/563-2
+00:04:09.113 --> 00:04:09.857
+and if it's.
+
+b2d72d7e-7f66-4bdf-a239-ced19ebd01e8/622-0
+00:04:10.877 --> 00:04:14.040
+If it's less than five, we go
+through all the phones and all
+
+b2d72d7e-7f66-4bdf-a239-ced19ebd01e8/622-1
+00:04:14.040 --> 00:04:17.152
+that stuff, and then we reset
+here, back again, and then as
+
+b2d72d7e-7f66-4bdf-a239-ced19ebd01e8/622-2
+00:04:17.152 --> 00:04:20.419
+the last is the weekend one, and
+this is still the same thing,
+
+b2d72d7e-7f66-4bdf-a239-ced19ebd01e8/622-3
+00:04:20.419 --> 00:04:23.737
+but in the this again, the four
+loop is different where it only
+
+b2d72d7e-7f66-4bdf-a239-ced19ebd01e8/622-4
+00:04:23.737 --> 00:04:26.901
+does for Saturday and Sunday and
+we just go through the same
+
+b2d72d7e-7f66-4bdf-a239-ced19ebd01e8/622-5
+00:04:26.901 --> 00:04:29.027
+thing we did in the all the
+other weeks.
+
+b2d72d7e-7f66-4bdf-a239-ced19ebd01e8/654-0
+00:04:30.097 --> 00:04:34.213
+And yet at the end, which just
+uh print error and we just print
+
+b2d72d7e-7f66-4bdf-a239-ced19ebd01e8/654-1
+00:04:34.213 --> 00:04:38.201
+the weekend profit as the same
+thing less than more than 1000
+
+b2d72d7e-7f66-4bdf-a239-ced19ebd01e8/654-2
+00:04:38.201 --> 00:04:40.517
+great work less than 1000 bad
+work.
+
+b2d72d7e-7f66-4bdf-a239-ced19ebd01e8/682-0
+00:04:41.337 --> 00:04:44.867
+And if, uh, days or week are out
+less than zero and greater than
+
+b2d72d7e-7f66-4bdf-a239-ced19ebd01e8/682-1
+00:04:44.867 --> 00:04:48.288
+four, then it's error. And if
+there's a week or zero, then our
+
+b2d72d7e-7f66-4bdf-a239-ced19ebd01e8/682-2
+00:04:48.288 --> 00:04:51.167
+program ends and then it
+continues after that again.
+
+b2d72d7e-7f66-4bdf-a239-ced19ebd01e8/686-0
+00:04:52.077 --> 00:04:52.547
+That's it.
+
+b2d72d7e-7f66-4bdf-a239-ced19ebd01e8/692-0
+00:04:54.137 --> 00:04:56.987
+Beautiful. Excellent. Thank you
+very much.
+
+b2d72d7e-7f66-4bdf-a239-ced19ebd01e8/694-0
+00:04:56.857 --> 00:04:57.427
+OK, nice.
+
+b2d72d7e-7f66-4bdf-a239-ced19ebd01e8/697-0
+00:04:59.257 --> 00:04:59.657
+Ice.
